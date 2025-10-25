@@ -1,6 +1,5 @@
 # ERROR 404: Reality Not Found
 
-![Thumbnail](./images/thumbnail.png)
 
 > *A teen's morning routine crashes into Windows error hell—until he discovers his entire life is just someone's buggy simulation.*
 
@@ -20,20 +19,6 @@ A 25-panel visual narrative following Kai, a 17-year-old anime protagonist with 
 
 ---
 
-## 📸 Gallery
-
-### Act 1: Morning Glitches
-![Panels 1-8](./images/panel-01.png)
-
-### Act 2: Reality Breaks Down  
-![Panels 9-18](./images/panel-09.png)
-
-### Act 3: The Simulation Reveal
-![Panels 19-25](./images/panel-25.png)
-
-[View all 25 panels in `/images` folder](./images/)
-
----
 
 ## 🛠️ Built With
 
